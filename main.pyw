@@ -5,7 +5,7 @@ import PyPDF2
 
 
 from os.path import isfile, join
-from tkinter import Tk, Label , Button
+from tkinter import Tk, Label , Button , filedialog 
 
 
 
